@@ -5,11 +5,13 @@
 
 <img align="right" alt="programando" width="400" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqvhttps://giphy.com/gifs/SWoSkN6DxTszqIKEqv">
 
+  - 🔭 I’m currently working on **flutter**
 
+- 🌱 I’m currently learning **html,css,js**
 
+- 📫 How to reach me ****
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsondev16&show_icons=true&locale=en&layout=compact" alt="ritsondev16" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsondev16&show_icons=true&locale=en&layout=compact" alt="ritsondev16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritsondev16&show_icons=true&locale=en" alt="ritsondev16" /></p>
 
