@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritsondev16" alt="marianoj8" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqvhttps://giphy.com/gifs/SWoSkN6DxTszqIKEqv">
 
 
 
