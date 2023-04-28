@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm ritsondev16<h1/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritsondev16&label=Profile%20views&color=0e75b6&style=flat" alt="ritsondev16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritsondev16" alt="marianoj8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritsondev16" alt="ritsondev16" /></a> </p>
 
 <img align="right" alt="programando" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47phy9qhii24fp6yq41v50gwr6dazpxui3nqjplr7p&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
@@ -14,10 +14,10 @@
   <h3 align="left">Connect with me:</h3>
 
   <p align="left">
-<a href="https:" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariano-javaswing-a44763180" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javaswing" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marianojavaswing" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="código abstrato" height="30" width="40" /></a>
+<a href="https:" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsondev16-LINKED-IN" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritsondev16" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritsondev16-INSTAGRAM" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritsondev16" height="30" width="40" /></a>
 </p>
 
 
