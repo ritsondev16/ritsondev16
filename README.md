@@ -14,10 +14,10 @@
   <h3 align="left">Connect with me:</h3>
 
   <p align="left">
-<a href="https:" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsondev16-LINKED-IN" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritsondev16" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritsondev16-INSTAGRAM" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritsondev16" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronaldo-mona-170891246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsondev16-LINKED-IN" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ritsondop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritsondev16" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ritsondev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritsondev16-INSTAGRAM" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSgzZg05KWt66pLCGg-NwBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritsondev16" height="30" width="40" /></a>
 </p>
 
 
